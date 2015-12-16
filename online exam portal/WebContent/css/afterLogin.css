@@ -1,0 +1,24 @@
+body {
+	background-image:
+		url("../images/restaurant.png");
+}
+
+.subject-list{
+	border:1px solid;
+}
+
+.subject-list li{
+
+	margin:20px;
+	margin-bottom:20px;
+	
+}
+h1{
+	color: rgb(71, 123, 172);
+	font-size: 1.3em;
+	margin-left: 30px;
+}
+
+.subject-list li a{
+	color: balck;
+}
